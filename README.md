@@ -55,8 +55,8 @@ fate_props_bygender = (df_eda.groupby(['Sex'])['Fate']
 ### Conveying our Findings as answers to our questions:
 
 The Bivariate Exploration helped us gain following Insights of Correlation between 'Gender', 'Class', 'Age' and 'Survived'and to find answers to our questions:
-- Most of the Men died, about $80\%$, whereas, as opposite, most of the Women survived, about $75\%$
+- Most of the Men died, about $80%$, whereas, as opposite, most of the Women survived, about $75%$
 - Babies and young children until about $8$ years old seem to had more chances to survive
-- A big proportion of People in the third class died, $75\%$, whereas most people travelling first class did survive,  about $62\%$<br>
+- A big proportion of People in the third class died, $75%$, whereas most people travelling first class did survive,  about $62%$<br>
 
 <b>These characteristics of the passengers seem to have certainly affected wether they could survive the Tragedy.</b>
